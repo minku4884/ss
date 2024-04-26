@@ -1,0 +1,25 @@
+.Header-container {
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.date-info{
+    margin-right: 20px;
+}
+
+.day_time {
+    display: flex;
+    width: 451px;
+    height: 20px;
+    font-size:  22px;
+    font-weight: bold;
+    justify-content: center;
+    line-height: 60px;
+    text-align: center;
+    color: #191919;
+    font-weight: 500;
+}
+

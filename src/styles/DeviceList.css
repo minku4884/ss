@@ -1,0 +1,135 @@
+.Modal-container {
+    height: 362px;  
+}
+
+/* .modal-content {
+    width: 600px;
+    height: 410px;
+} */
+
+.modal-header {
+    width: 600px;
+    height: 46px;
+    color: #0041b9;
+    border-bottom: 3px solid #d6e8fa; 
+    background-color: #f5f9fc;
+}
+
+.header-title {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 13px 0px 14px 240px;
+}
+
+.modal-body {
+    padding: 0px;
+}
+
+.deviceImg{
+    margin: 41px 30px  
+}
+
+.deviceInfo {
+    width: 232px;
+    height: 100%;
+    text-align: center;
+    background-color: #f5f9fc;
+    border-left: 2px solid #d6e8fa;
+    border-radius: 0px 0px 10px 0px;
+}
+
+.deviceInfo h4 {
+    color: #0041b9;
+    margin: 25px 0px 14px 0px;
+    font-size: 18.5px;
+}
+
+.deviceInfo h5 {
+    margin-bottom: 14px;
+    font-size: 14px;
+}
+
+.deviceInfo .readyimage {
+    margin-bottom: 22px;
+}
+
+.btn-close {
+    width: 40px;
+    height: 20px;
+    padding: 0px;
+    margin: 0px;
+    color: #0041b9;
+}
+
+.STATE-container {
+    width: 230px;
+    height: 110px;
+}
+
+.HRimage {
+    margin-right: 12px;
+    height: 28px;
+}
+
+.BRimage {
+    margin-right: 12px;
+    height: 28px;
+}
+
+.HR-BR-container {
+    width: 230px;
+    height: 90px;
+}
+
+.HR-container {
+    font-size: 22px;
+}
+
+.BR-container {
+    font-size: 22px;
+}
+
+.Modal-container{ 
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: 362px;
+}
+
+.bpm-title {
+    font-size: 14px;
+    margin-left: 6px;
+}
+
+.closeBtn {
+    width: 100px;
+    height: 30px;
+    border-radius: 22px;
+    border: 1px solid #0041b9;
+    color: #0041b9;
+    background-color: #ffffff;
+    margin-top: 20px;
+}
+
+.closeBtn:hover {
+    background-color: #2f59a8;
+    color: #ffffff;
+    transition: 0.7s;
+}
+
+/* .device-rectangle {
+    display:flex;
+    flex-wrap:wrap;
+    width: 76px;
+    height: 76px;
+    background-color : black;
+    border-radius: 9px;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+    line-height: 76px;
+    font-weight: bold;
+    position:relative;
+    overflow:hidden;
+}
+ */

@@ -1,0 +1,110 @@
+.Header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 64px;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  
+  .day_time {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .date-info {
+    font-size: 20px;
+    margin-right: 10px;
+  }
+  
+  .timer {
+    font-size: 20px;
+  }
+  
+  .ant-Layout {
+    height: 100vh;
+  }
+  
+  .ant-Layout .ant-layout-header {
+    padding: 0;
+  }
+  
+  .ant-Layout .ant-layout-content {
+      margin: 24px 16px;
+      padding: 24px;
+      min-height: 280px;
+  }
+
+  .ant-menu-item {
+    border-radius: 1px solid black;
+  }
+  
+  .logo {
+    text-align: center;
+  }
+  
+
+  
+  .ant-menu-item-icon {
+    font-size: 18px;
+    vertical-align: middle;
+    margin-right: 10px;
+  }
+  
+  .ant-menu-inline .ant-menu-item-selected {
+    background-color: #f0f2f5;
+  }
+
+  .logout-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 32px;
+    background:rgb(183, 218, 235);
+    color: #767676;
+    font-size: 14px;
+    width: 120px;
+    height: 40px;
+    border: 1px solid #dbdbdb;
+    background-color: #ffffff;
+    border-radius: 4px;
+    outline: 0;
+    padding: 13px 0px;
+  }
+
+
+  .SideBtn { 
+    width: 92%;
+    height: 44px;
+    box-sizing: border-box;
+    display: flex;
+    margin: 0 ;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    justify-content: flex-start;
+    border-radius: 0 22px 22px 0;
+    text-transform: uppercase;
+    color: #767676;
+    float: left;
+    font-size: 14px;
+    font-weight: 400;
+
+  }
+  
+  .SideBtn:hover{ 
+    border: 1px solid #0041b9;
+    background-color: #0041b9;
+    color: #ffffff;
+    transition: 1s;
+  }
+
+  .selected {
+    border: 1px solid #0041b9;
+    background-color: #0041b9;
+    color: #ffffff;
+  }
+
+  .Menu_icon_image {
+    margin: 0px 20px 0px 20px;
+  }

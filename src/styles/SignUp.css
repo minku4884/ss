@@ -1,0 +1,73 @@
+.Signup-container {
+    width: 1920px;
+    height: 1080px;
+    text-align: center;
+    background-color: #f5f9fc;    
+}
+
+
+.Mainlogo {
+    width: 168px;
+    height: 46px;
+    margin: 29px auto;
+}
+
+
+.Signup-title {
+    display: inline-block;
+    width: 100px;
+    height: 27px;
+    font-size: 26px;
+    font-weight: 500;
+    margin: 48px auto 35px;
+}
+
+.Signup-form-input {
+    width: 560px;
+    height: 824px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    text-align: left;
+    
+}
+
+
+
+.Signup-input {
+    width: 500px;
+    height: 51px;
+    font-size: 16px;
+    background-color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid #ededed;
+    margin-top: 14px;
+    padding-left: 21px;
+}
+
+.Signup-input::placeholder {
+    font-weight: normal;
+    color: #969696;
+}
+
+.input-title-1 {
+    padding: 39px 0px 0px 30px;
+}
+
+.input-title {
+    padding: 29px 0px 0px 30px;
+    font-size: 14px;
+}
+
+.title-title {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.Signup-Btn {
+    width: 500px;
+    height: 57px;
+    border-radius: 4px;
+    border: solid 1px #ededed;
+    background-color: #0041b9;
+    color: #ffffff;
+}
